@@ -140,6 +140,11 @@ footer {
     color: #109295;
 }
 
+footer p:hover{
+    color: #58f097;
+    cursor:default;
+}
+
 /* ----- NAVIGATION ----- */
 
 nav a {
